@@ -158,7 +158,7 @@ http://localhost:3001/health
 ---
 
 ## 🧾 Author
-**Developed by:** [Indar Gehalot](mailto:indargehalot1234@example.com)  
+**Developed by:** [Kamlesh Gehalot](mailto:indargehalot1234@example.com)  
 🚀 AI Developer | 🐳 Docker Enthusiast | 💻 Full-Stack Engineer  
 
 📧 **Email:** [indargehalot1234@example.com](mailto:indargehalot1234@example.com)
